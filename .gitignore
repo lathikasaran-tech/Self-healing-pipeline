@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+.tools
+
+# Build Output
+dist
+build
+*.tsbuildinfo
+
+# Local Environment & Secrets
+.env
+.env.local
+.env.production
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+.vscode
+.idea
